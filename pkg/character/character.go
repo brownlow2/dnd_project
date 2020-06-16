@@ -41,10 +41,6 @@ type Stats struct {
 	HitDice int
 }
 
-type Inventory struct {
-
-}
-
 type Abilities struct {
 
 }
